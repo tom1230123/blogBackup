@@ -1,0 +1,1 @@
+## 更新了CNAME，将CNAME文件放在source文件夹下hexo部署时不会将其删除。
